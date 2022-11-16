@@ -7,6 +7,6 @@ export default defineConfig({
     port: 8080
   },
   base: process.env.NODE_ENV === 'production'
-    ? '/phaser-starter-in-vue/'
+    ? '/phaser-painter-starter/'
     : '/',
 })
