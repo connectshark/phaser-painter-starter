@@ -17,6 +17,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "phaser": "^3.55.2",
     "pinia": "^2.0.23",
     "sass": "^1.56.1",
     "vue": "^3.2.33",
