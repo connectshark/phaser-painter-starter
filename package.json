@@ -1,15 +1,15 @@
 {
-  "name": "vite-template",
+  "name": "phaser-starter-in-vue",
   "version": "0.1.0",
   "author": {
     "name": "Chambers",
     "url": "https://github.com/connectshark"
   },
   "license": "MIT",
-  "homepage": "https://github.com/connectshark/vite-template",
+  "homepage": "https://github.com/connectshark/phaser-starter-in-vue",
   "repository": {
     "type": "git",
-    "url": "https://github.com/connectshark/vite-template"
+    "url": "https://github.com/connectshark/phaser-starter-in-vue"
   },
   "scripts": {
     "dev": "vite",
