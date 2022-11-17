@@ -1,4 +1,4 @@
-# vite-template
+# phaser-painter-starter
 
 [![build status](https://github.com/connectshark/vite-template/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/connectshark/vite-template/actions/workflows/deploy.yml)
 [![GitHub last commit](https://img.shields.io/github/last-commit/connectshark/vite-template.svg?style=flat)](https://github.com/connectshark/vite-template)
